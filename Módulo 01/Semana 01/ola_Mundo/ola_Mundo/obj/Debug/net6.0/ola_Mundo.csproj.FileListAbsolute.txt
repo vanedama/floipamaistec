@@ -1,0 +1,15 @@
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\bin\Debug\net6.0\ola_Mundo.exe
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\bin\Debug\net6.0\ola_Mundo.deps.json
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\bin\Debug\net6.0\ola_Mundo.runtimeconfig.json
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\bin\Debug\net6.0\ola_Mundo.dll
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\bin\Debug\net6.0\ola_Mundo.pdb
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ola_Mundo.csproj.AssemblyReference.cache
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ola_Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ola_Mundo.AssemblyInfoInputs.cache
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ola_Mundo.AssemblyInfo.cs
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ola_Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ola_Mundo.dll
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\refint\ola_Mundo.dll
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ola_Mundo.pdb
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ola_Mundo.genruntimeconfig.cache
+C:\Users\Vanessa Dama\source\repos\ola_Mundo\ola_Mundo\obj\Debug\net6.0\ref\ola_Mundo.dll

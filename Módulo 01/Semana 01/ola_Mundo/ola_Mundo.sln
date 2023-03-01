@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ola_Mundo", "ola_Mundo\ola_Mundo.csproj", "{ACFEA353-FEE5-483D-925C-397A62D0DA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFEA353-FEE5-483D-925C-397A62D0DA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFEA353-FEE5-483D-925C-397A62D0DA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFEA353-FEE5-483D-925C-397A62D0DA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFEA353-FEE5-483D-925C-397A62D0DA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC859B5-BA31-4EC5-9A50-350D42E7F487}
+	EndGlobalSection
+EndGlobal

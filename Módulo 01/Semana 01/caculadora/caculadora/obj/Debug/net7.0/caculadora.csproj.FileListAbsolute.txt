@@ -1,0 +1,15 @@
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\caculadora.csproj.AssemblyReference.cache
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\caculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\caculadora.AssemblyInfoInputs.cache
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\caculadora.AssemblyInfo.cs
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\caculadora.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\bin\Debug\net7.0\caculadora.exe
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\bin\Debug\net7.0\caculadora.deps.json
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\bin\Debug\net7.0\caculadora.runtimeconfig.json
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\bin\Debug\net7.0\caculadora.dll
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\bin\Debug\net7.0\caculadora.pdb
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\caculadora.dll
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\refint\caculadora.dll
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\caculadora.pdb
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\caculadora.genruntimeconfig.cache
+C:\Users\Vanessa Dama\source\repos\caculadora\caculadora\obj\Debug\net7.0\ref\caculadora.dll
